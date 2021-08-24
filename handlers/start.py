@@ -52,7 +52,7 @@ Ketik » /help « Untuk Melihat Daftar Perintah!
                          "🤖 Assistant", url=f"https://t.me/{ASSISTANT_NAME}"
                     ),
                     InlineKeyboardButton(
-                        "🛠 Repo", url="https://github.com/tofikdn/TDMusicBot"
+                        "🛠 Repo", url="https://github.com/Nobiita/JawaraMusicBot"
                     )
                 ]
             ]
@@ -72,10 +72,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Repo", url="https://github.com/tofikdn/TDMusicBot"
+                        "🛠 Repo", url="https://github.com/Nobiita/JawaraMusicBot"
                     ),
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/tedesupport"
+                        "💬 Group", url="https://t.me/jawravirtul"
                     )
                 ]
             ]
@@ -107,10 +107,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/tedesupport"
+                        "Group", url="https://t.me/jawravirtul"
                     ),
                     InlineKeyboardButton(
-                        "Tede", url="https://t.me/tdtapibot"
+                        "Channel", url="https://t.me/mutiaraindh"
                     )
                 ]
             ]
